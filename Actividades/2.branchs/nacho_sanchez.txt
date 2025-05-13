@@ -1,0 +1,41 @@
+¿Qué es un branch?
+
+los branchs son lineas de desarrollo independiente que se crea a partir del código principal
+
+
+¿Por qué pueden ser útiles los branches?
+
+facilitar el trabajo en equipo y tambien evitar errores en el codigo principal hasta que las nuevas funcionalidades estén listas
+
+¿Cómo se crea una branch?
+
+git branch  esto creara el brach 
+
+¿Cómo se cambia a una branch?
+
+git checkout  que cambiara el branch esto nos permitira cambiar el branch donde estamos actualmente a otro
+
+
+¿Cómo se elimina una branch?
+
+git branch -d esto se encargara de eliminarlo
+
+
+¿Cómo se crea una branch y se cambia a ella en un solo paso?
+
+git checkout -b esto hara ambas cosas al mismo tiempo
+
+¿Qué es un merge?
+
+el merge es la operacion que une los cambios de una con otra
+
+¿Cómo se realiza un merge?
+
+primero cambia la rama donde estas a otra y utilizamos el comando el git merge
+
+¿Que es un tag?
+
+es un marcador que señala un punto especifico del historial
+¿Cómo se crea un tag
+
+git tag y luego el nombre del tag para crearlo
